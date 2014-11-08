@@ -3,7 +3,7 @@ Ray Tracer
 
 CPU based Ray Tracer
 
-https://www.youtube.com/watch?v=PbP83idQ-AY&list=UU-wHNSn8XuFfJyl1xGf5mCQ
+https://www.youtube.com/watch?v=PbP83idQ-AY
 
 Additional dependencies: 
 Freeglut                   - http://freeglut.sourceforge.net/
